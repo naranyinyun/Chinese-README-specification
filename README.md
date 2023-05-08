@@ -7,4 +7,5 @@
 1. 无论何时, 使用半角符号
 2. 中文语境中使用半角符号+半角空格  
 3. 按照美观性出发, 更改部分符号用法
+
 详见 [标点符号使用规范](https://github.com/naranyinyun/Chinese-README-specification/blob/main/interpunction.md)
