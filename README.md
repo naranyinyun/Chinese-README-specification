@@ -2,3 +2,9 @@
 你可以任意为本仓库的任何文件提供建议, 也可以直接修改文件并 Pull Requests , 总之, 欢迎您的贡献  
 
 ## 第一部分 标点符号规范
+在书写中文 README 时, 应遵循以下规范适应标点符号以便阅读修订, 并增强读者的视觉效果  
+本文所定义的规范大致如下:   
+1. 无论何时, 使用半角符号
+2. 中文语境中使用半角符号+半角空格  
+3. 按照美观性出发, 更改部分符号用法
+详见 [标点符号使用规范](https://github.com/naranyinyun/Chinese-README-specification/blob/main/interpunction.md)
